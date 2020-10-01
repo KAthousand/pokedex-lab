@@ -5,6 +5,9 @@ main {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 header {
@@ -22,4 +25,7 @@ button {
 
 #results {
   font-size: 18px;
+}
+.poke-form{
+color: white;
 }
